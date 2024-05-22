@@ -1,0 +1,2 @@
+This is line for document 2
+and this is second line for document 2
